@@ -59,6 +59,13 @@ flutter:
         - asset: fonts/Oxanium-Regular.ttf
         - asset: fonts/Oxanium-Bold.ttf
           weight: 700
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Regular.ttf
+        - asset: fonts/Raleway-Bold.ttf
+          weight: 700
+        - asset: fonts/Raleway-Italic.ttf
+          style: italic
     - family: Spartan
       fonts:
         - asset: fonts/Spartan-VariableFont_wght.ttf
